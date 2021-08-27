@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I'm **Alvin**.
+
+I'm a student at President University majoring in Information Technology
+
+I'm planning to create Artificial Intelligence projects on this github account.
+
+⚡ Fun fact: I'm obsessed with instant noodles :)
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alvin-Buana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alvin-Buana&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
 <!--
 **Alvin-Buana/Alvin-Buana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
