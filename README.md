@@ -2,7 +2,7 @@
 
 I'm **Alvin**.
 
-I'm a student at President University majoring in Information Technology
+I'm a student at [President University](https://www.president.ac.id/) majoring in Information Technology
 
 I'm planning to create Artificial Intelligence projects on this github account.
 
