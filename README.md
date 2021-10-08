@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Linkedin: AlvinBuana](https://img.shields.io/badge/-AlvinBuana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvinbuana/)](https://www.linkedin.com/in/alvinbuana/)
 
-<img align='right' src="https://cdn2.scratch.mit.edu/get_image/gallery/28029917_170x100.png" width="230">
+<img align='right' src="28029917_170x100.gif" width="230">
 
 I'm a student at [President University](https://www.president.ac.id/) majoring in Information Technology
 
