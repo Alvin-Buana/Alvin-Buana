@@ -5,11 +5,11 @@
 
 I'm a student at [President University](https://www.president.ac.id/) majoring in Information Technology
 
-I'm planning to create Artificial Intelligence projects on this github account.
+🌱 I’m currently learning  Artificial Intelligence and Machine Learning.
 
 
 
-⚡ Fun fact: I'm obsessed with instant noodles :)
+
 
 ### Github Statistic
 <p align="left">
