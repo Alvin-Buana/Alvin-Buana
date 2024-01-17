@@ -3,7 +3,9 @@
 
 <img align='right' src="28029917_170x100.gif" width="230">
 
-I'm a student at [President University](https://www.president.ac.id/) majoring in Information Technology
+I'm a graduate student at [President University](https://www.president.ac.id/) majoring in Information Technology
+
+Currently, I am working as a Research Consultant at [PukulEnam.ai](https://pukulenam.id/ai/) and I am also currently pursuing my master degree at [National Central University or 中央大學](https://www.ncu.edu.tw/en/index.html)
 
 🌱 I’m currently learning  Artificial Intelligence and Machine Learning.
 
